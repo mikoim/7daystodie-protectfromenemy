@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="ProtectFromEnemy" />
+		<Description value="ProtectFromEnemy allows Land Claim Block to protect blocks from any enemies." />
+		<Author value="Eshin Kunishima" />
+		<Version value="1" />
+		<Website value="http://github.com/mikoim/7daystodie-protectfromenemy/" />
+	</ModInfo>
+</xml>
